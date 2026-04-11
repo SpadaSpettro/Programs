@@ -8,4 +8,4 @@ Il programma è anche dotato di una funzione di cronologia che mostra a schermo 
 
 ###### Come avviare il programma:
 
-Per avviare il programma, compilare il file Calcolatrice.py usando un compilatore Python.
+Per avviare il programma, compilare il file calcolatrice.py usando un compilatore Python.
